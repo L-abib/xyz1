@@ -9,6 +9,7 @@ th , td{
   /* visited link */
   a:visited {
     color:#8484e2 ;
+      border-collapse: collapse;
   }
   
   /* mouse over link */
